@@ -1,4 +1,6 @@
 # Master-Thesis
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 I wrote these Python programs in order to make plots and find results for my master's thesis.
 
 The following two programs implement Excursion Set Theory as taken from [Zentner 2006](https://arxiv.org/abs/astro-ph/0611454):
