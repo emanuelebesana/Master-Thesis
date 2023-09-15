@@ -1,5 +1,5 @@
 # Master-Thesis
-I used these Python programs in order to make plots and find results for my master's thesis.
+I wrote these Python programs in order to make plots and find results for my master's thesis.
 
 The following two programs implement Excursion Set Theory as taken from [Zentner 2006](https://arxiv.org/abs/astro-ph/0611454):
 
